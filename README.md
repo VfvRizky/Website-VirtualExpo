@@ -3,7 +3,8 @@ Projek KP
 
 
 
-Author: M.RizkyP.\n
+Author: M.RizkyP.
+
 Projet Name: Virtual Expo ITK
 Time: 28 july  - ?? august 2021
 Version: 1.0
