@@ -1,5 +1,0 @@
-how check the 5.2 Version
-
-change the branch from "main" to "master"
-
-like this
