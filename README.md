@@ -3,6 +3,7 @@ Projek KP
 
 Virtual Expo ITK (Institut Teknologi Kalimantan)
 Openhouse ITK 2022
+
 https://ve-itk.000webhostapp.com
 
 Author: M.RizkyP./Haeqal/Lutfi
